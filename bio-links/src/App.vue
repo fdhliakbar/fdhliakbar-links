@@ -16,15 +16,15 @@
 
     <!-- Avatar -->
     <div class="-mt-14 z-10">
-      <img src="../public/image/thiings-cat.png" alt="Avatar" class="w-24 h-24 rounded-full border-4 border-white shadow-lg object-cover"/>
+      <img src="/image/thiings-cat.png" alt="Avatar" class="w-24 h-24 rounded-full border-4 border-white shadow-lg object-cover"/>
     </div>
 
     <!-- Name & Description -->
     <div class="text-center mt-2 px-4">
       <h1 class="text-2xl font-bold">Muhamad Fadhli Akbar</h1>
-      <p class="mt-2 text-gray-600 text-sm">
+      <p class="mt-2 text-gray-600 text-sm max-w-lg mx-auto break-words">
         <span class="inline-block align-middle mr-1">👋</span>
-        Hi, call me Fadhli. I'm a Full Stack Developer with a passion for AI and Web3. I'm a fast learner, highly adaptable, and always open to global opportunities and cross-cultural collaboration. Let’s build meaningful things together! 😺
+        Hi, call me Fadhli. I'm a Full Stack Developer with a passion for AI and Web3. Let’s build meaningful things together😺
       </p>
     </div>
 
@@ -55,32 +55,34 @@
     <div class="w-full max-w-md mt-4 px-4 space-y-3">
       <!-- Link 1 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3">
-        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=60&q=80" alt="Harmonica" class="w-12 h-12 rounded-lg object-cover mr-3"/>
+        <img src="/image/onodera-icon1.jpg" alt="Harmonica" class="w-12 h-12 rounded-lg object-cover mr-3"/>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Harmonica</div>
-          <div class="text-xs text-gray-500">Limited Series</div>
+          <div class="font-semibold text-sm">Portfolio</div>
+          <div class="text-xs text-gray-500">Coming Soon</div>
         </div>
-        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">IDR 690K</span>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">Nanti di Update</span>
       </div>
       <!-- Link 2 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3">
-        <div class="w-12 h-12 rounded-lg bg-gradient-to-br from-pink-400 to-yellow-300 flex items-center justify-center mr-3">
-          <i class="fab fa-instagram text-white text-2xl"></i>
+        <a href="https://github.com/fdhliakbar" target="_blank" class="flex items-center w-full">
+        <div class="w-12 h-12 rounded-lg bg-gradient-to-br from-black to-indigo-600 flex items-center justify-center mr-3">
+          <i class="fab fa-github text-white text-2xl"></i>
         </div>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Visit my Instagram</div>
+          <div class="font-semibold text-sm">Visit my Github</div>
         </div>
         <svg class="w-5 h-5 text-gray-400 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
         </svg>
+      </a>
       </div>
       <!-- Link 3 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3">
-        <img src="https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=60&q=80" alt="E-Book" class="w-12 h-12 rounded-lg object-cover mr-3"/>
+        <img src="/image/onodera-icon1.jpg" alt="E-Book" class="w-12 h-12 rounded-lg object-cover mr-3"/>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Digital Marketing E-Book</div>
+          <div class="font-semibold text-sm">Portfolio</div>
         </div>
-        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">IDR 690K</span>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">Nanti di Update</span>
       </div>
     </div>
 

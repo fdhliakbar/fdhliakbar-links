@@ -61,37 +61,61 @@
     </div>
 
     <!-- Portfolio List -->
-    <div class="w-full max-w-md mt-4 px-4 space-y-3">
+    <div class="w-full max-w-md mt-4 px-4 space-y-5">
       <!-- Link 1 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3 transition-transform duration-200 hover:scale-105">
-        <img src="/image/onodera-icon1.jpg" alt="Harmonica" class="w-12 h-12 rounded-lg object-cover mr-3"/>
+        <img src="/image/anaslaw.png" alt="Anas Law Firm" class="w-12 h-12 rounded-lg object-cover mr-3 bg-blue-800"/>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Portfolio</div>
-          <div class="text-xs text-gray-500">Coming Soon</div>
+          <div class="font-semibold text-sm">Anas Law Firm</div>
+          <div class="text-xs text-gray-500">Is an online platform that serves as a digital representation of a law practice.</div>
         </div>
-        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">Nanti di Update</span>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">
+          <a href="https://anaslawfirm.com/">Visit Website</a>
+        </span>
       </div>
       <!-- Link 2 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3 transition-transform duration-200 hover:scale-105">
-        <a href="https://github.com/fdhliakbar" target="_blank" class="flex items-center w-full">
-        <div class="w-12 h-12 rounded-lg bg-gradient-to-br from-black to-indigo-600 flex items-center justify-center mr-3">
-          <i class="fab fa-github text-white text-2xl"></i>
-        </div>
+        <img src="/image/onodera-icon1.jpg" alt="Anas Law Firm" class="w-12 h-12 rounded-lg object-cover mr-3"/>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Visit my Github</div>
+          <div class="font-semibold text-sm">Anas Law Firm</div>
+          <div class="text-xs text-gray-500">Is an online platform that serves as a digital representation of a law practice.</div>
         </div>
-        <svg class="w-5 h-5 text-gray-400 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
-        </svg>
-      </a>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">
+          <a href="https://anaslawfirm.com/">Visit Website</a>
+        </span>
       </div>
       <!-- Link 3 -->
       <div class="flex items-center bg-white rounded-xl shadow px-4 py-3 transition-transform duration-200 hover:scale-105">
         <img src="/image/onodera-icon1.jpg" alt="E-Book" class="w-12 h-12 rounded-lg object-cover mr-3"/>
         <div class="flex-1">
-          <div class="font-semibold text-sm">Portfolio</div>
+          <div class="font-semibold text-sm">Nutrisense</div>
+          <div class="text-xs text-gray-500">System for monitoring vehicle status in a fleet management environment.</div>
         </div>
-        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">Nanti di Update</span>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">
+          <a href="https://anaslawfirm.com/">Visit Website</a>
+        </span>
+      </div>
+      <!-- Link 4 -->
+      <div class="flex items-center bg-white rounded-xl shadow px-4 py-3 transition-transform duration-200 hover:scale-105">
+        <img src="/image/onodera-icon1.jpg" alt="E-Book" class="w-12 h-12 rounded-lg object-cover mr-3"/>
+        <div class="flex-1">
+          <div class="font-semibold text-sm">Vehicle Tracker</div>
+          <div class="text-xs text-gray-500">System for monitoring vehicle status in a fleet management environment.</div>
+        </div>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">
+          <a href="https://anaslawfirm.com/">Visit Website</a>
+        </span>
+      </div>
+      <!-- Link 5-->
+      <div class="flex items-center bg-white rounded-xl shadow px-4 py-3 transition-transform duration-200 hover:scale-105">
+        <img src="/image/onodera-icon1.jpg" alt="E-Book" class="w-12 h-12 rounded-lg object-cover mr-3"/>
+        <div class="flex-1">
+          <div class="font-semibold text-sm">Vehicle Tracker</div>
+          <div class="text-xs text-gray-500">System for monitoring vehicle status in a fleet management environment.</div>
+        </div>
+        <span class="ml-2 bg-purple-100 text-purple-700 font-bold text-xs px-3 py-1 rounded-lg">
+          <a href="https://anaslawfirm.com/">Visit Website</a>
+        </span>
       </div>
     </div>
 
